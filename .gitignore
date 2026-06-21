@@ -1,0 +1,13 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+
+What to Listen For in Music.epub
+
+data/generated_chapters/
+data/listening_logs.jsonl
+
+tools/
+app_old_book_anchor_version.py
